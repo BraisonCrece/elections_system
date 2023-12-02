@@ -1,0 +1,3 @@
+%{
+  "ws": {:hex, :ws, "0.0.1", "935de2bbcddbc2d585cb5d9686ac1602c3be036b11858f5b96074b18dc2aa514", [:mix], [], "hexpm", "31185c57989f16c4d337974cf1896bb8da452b4f08258a48583cce211fbcf316"},
+}
