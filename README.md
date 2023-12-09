@@ -1,5 +1,9 @@
 # Poller
 
+## Project structure
+![image](https://github.com/BraisonCrece/elections_system/assets/104019638/1d007882-3013-4623-b14d-2e94803d48ef)
+
+
 **TODO: Add description**
 
 ## Installation
